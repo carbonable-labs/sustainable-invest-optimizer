@@ -1,8 +1,3 @@
-# sustainable-invest-optimizer
-
-Is a Decentralized, Multichain Yield Optimizer that allows its users to earn compound interest on their crypto holdings. Beefy earns you the highest APYs with safety and efficiency in mind.
-
-# Carbmeter
 <div align="center">
   <h1>sustainable-invest-optimizer</h1>
   <img src="https://user-images.githubusercontent.com/25151724/214644164-61d5718b-fcf3-474e-9cdb-135836416e68.png" height="200">
