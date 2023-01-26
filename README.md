@@ -22,7 +22,7 @@
 
 ## About
 
-Optimizer is a decentralized, Yield optimizer that allows its users to earn compound interest on their NFTs holdings. Optimizer earns you the highest APRs with safety and efficiency in mind.
+Optimizer is a decentralized, Yield optimizer that allows its users to earn compound interest on their NFTs and Token holdings. Optimizer earns you the highest APRs with safety and efficiency in mind.
 The protocol uses a set of smart contract investment strategies to automatically maximize user rewards from various liquidity pools, NFTs stacking and other yield farming strategy in the DeFi ecosystem.
 
 Optimizer main function is a "Profit-maximizing" feature, in which users can stake their Tokens and NFTs. The investment strategy tied to the pool will automatically increase the deposited Token by compounding arbitrary yield farm reward Token back into the initially deposited asset. Despite its name, the funds are never locked and can be withdrawn at any time.
